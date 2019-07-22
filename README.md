@@ -1,5 +1,5 @@
 # ROBOT RESCUE LINE USING ARDUINO
-## TEAM ROBOTI4ALL
+## TEAM ROBOTIC4ALL
 
 Hello 
 We are the RobotiAll team. 
